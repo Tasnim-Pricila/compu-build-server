@@ -2,7 +2,7 @@
   "name": "compu-build-server",
   "version": "1.0.0",
   "description": "",
-  "main": "src/service.ts",
+  "main": "src/server.ts",
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only src/server.ts",
     "lint:check": "eslint --ignore-path .eslintignore --ext .js,.ts .",
