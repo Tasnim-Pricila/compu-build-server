@@ -1,5 +1,5 @@
-import express from 'express'
-const router = express.Router()
+import express from 'express';
+const router = express.Router();
 
 // const moduleRoutes = [
 //   {
@@ -10,4 +10,4 @@ const router = express.Router()
 
 // moduleRoutes.forEach(route => router.use(route.path, route.routes));
 
-export default router
+export default router;
