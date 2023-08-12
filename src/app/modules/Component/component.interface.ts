@@ -17,6 +17,7 @@ export type IKeyFeatures = {
   clockSpeed?: string;
   cache?: string;
   cores?: string;
+  socket?: string;
   threads?: string;
   baseFrequency?: string;
   maximumTurboFrequency?: string;

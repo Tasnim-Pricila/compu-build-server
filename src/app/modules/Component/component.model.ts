@@ -50,6 +50,7 @@ const componentSchema = new Schema<IComponent>(
         clockSpeed: String,
         cache: String,
         cores: String,
+        socket: String,
         threads: String,
         baseFrequency: String,
         maximumTurboFrequency: String,

@@ -1,0 +1,126 @@
+[
+  {
+    "image": "cpu1.jpg",
+    "name": "Intel Core i9-11900K",
+    "category": "CPU / Processor",
+    "status": "In Stock",
+    "price": 549.99,
+    "description": "The Intel Core i9-11900K is a high-performance processor...",
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i9-11900K",
+      "specification": "8 cores, 16 threads...",
+      "socket": "LGA 1200",
+      "clockSpeed": "3.5GHz base, up to 5.3GHz turbo",
+      "cache": "16MB Intel Smart Cache",
+      "power": "125W TDP"
+    },
+    "reviews": [
+      {
+        "reviewedBy": "TechGuru123",
+        "rating": 4.5,
+        "comment": "Impressive performance, but runs a bit hot."
+      },
+      {
+        "reviewedBy": "PCEnthusiast99",
+        "rating": 5,
+        "comment": "Unmatched speed and power, worth the price."
+      }
+    ]
+  },
+  {
+    "image": "cpu2.jpg",
+    "name": "AMD Ryzen 9 5900X",
+    "category": "CPU / Processor",
+    "status": "Out of Stock",
+    "price": 499.99,
+    "description": "The AMD Ryzen 9 5900X offers exceptional multi-core performance...",
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 9 5900X",
+      "specification": "12 cores, 24 threads...",
+      "socket": "AM4",
+      "clockSpeed": "3.7GHz base, up to 4.8GHz boost",
+      "cache": "70MB total cache",
+      "power": "105W TDP"
+    },
+    "reviews": []
+  },
+  {
+    "image": "cpu3.jpg",
+    "name": "Intel Core i7-11700K",
+    "category": "CPU / Processor",
+    "status": "In Stock",
+    "price": 399.99,
+    "description": "The Intel Core i7-11700K delivers strong performance for gaming...",
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i7-11700K",
+      "specification": "8 cores, 16 threads...",
+      "socket": "LGA 1200",
+      "clockSpeed": "3.6GHz base, up to 5.0GHz turbo",
+      "cache": "16MB Intel Smart Cache",
+      "power": "125W TDP"
+    },
+    "reviews": [
+      {
+        "reviewedBy": "GamingPro456",
+        "rating": 4,
+        "comment": "Great for gaming, but could be cooler."
+      }
+    ]
+  },
+  {
+    "image": "cpu4.jpg",
+    "name": "AMD Ryzen 7 5800X",
+    "category": "CPU / Processor",
+    "status": "In Stock",
+    "price": 349.99,
+    "description": "The AMD Ryzen 7 5800X offers a balance of performance and value...",
+    "keyFeatures": {
+      "brand": "AMD",
+      "model": "Ryzen 7 5800X",
+      "specification": "8 cores, 16 threads...",
+      "socket": "AM4",
+      "clockSpeed": "3.8GHz base, up to 4.7GHz boost",
+      "cache": "36MB total cache",
+      "power": "105W TDP"
+    },
+    "reviews": [
+      {
+        "reviewedBy": "ValueHunter",
+        "rating": 4.5,
+        "comment": "Solid performance at a reasonable price."
+      }
+    ]
+  },
+  {
+    "image": "cpu5.jpg",
+    "name": "Intel Core i5-11400",
+    "category": "CPU / Processor",
+    "status": "In Stock",
+    "price": 249.99,
+    "description": "The Intel Core i5-11400 offers a good mix of performance and affordability...",
+    "keyFeatures": {
+      "brand": "Intel",
+      "model": "Core i5-11400",
+      "specification": "6 cores, 12 threads...",
+      "socket": "LGA 1200",
+      "clockSpeed": "2.6GHz base, up to 4.4GHz turbo",
+      "cache": "12MB Intel Smart Cache",
+      "power": "65W TDP"
+    },
+    "reviews": [
+      {
+        "reviewedBy": "BudgetBuilder",
+        "rating": 4,
+        "comment": "Gets the job done without breaking the bank."
+      },
+      {
+        "reviewedBy": "CasualUser123",
+        "rating": 5,
+        "comment": "Smooth performance for everyday tasks."
+      }
+    ]
+  }
+]

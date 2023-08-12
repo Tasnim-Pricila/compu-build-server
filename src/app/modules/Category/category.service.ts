@@ -14,6 +14,13 @@ export const createCategoryService = async (
     const result = await Category.findById(id)
     return result
   }
+  export const getCategoryByNameService = async (
+    name: string
+  ): Promise<ICategory | null> => {
+    const result = await Category.findOne({name})
+    // console.log(result);
+    return result
+  }
   
   export const getCategoryService = async (): Promise<ICategory[] | null> => {
     const result = await Category.find({})
