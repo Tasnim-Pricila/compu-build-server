@@ -116,8 +116,9 @@ const componentSchema = new Schema<IComponent>(
           type: String,
         },
         userID: {
-          type: Schema.Types.ObjectId,
-          ref: 'User'
+          // type: Schema.Types.ObjectId,
+          type: String,
+          // ref: 'User'
         },
       },
     ],
