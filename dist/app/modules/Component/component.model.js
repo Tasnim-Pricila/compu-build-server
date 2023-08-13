@@ -115,9 +115,10 @@ const componentSchema = new mongoose_1.Schema({
             comment: {
                 type: String,
             },
-            userID: {
-                type: mongoose_1.Schema.Types.ObjectId,
-                ref: 'User'
+            reviewedBy: {
+                // type: Schema.Types.ObjectId,
+                type: String,
+                // ref: 'User'
             },
         },
     ],

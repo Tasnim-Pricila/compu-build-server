@@ -1,9 +1,10 @@
-import { Schema } from "mongoose";
+// import { Schema } from "mongoose";
 
 export type IReviews = {
   rating: number;
   comment: string;
-  userID: Schema.Types.ObjectId;
+  // userID: Schema.Types.ObjectId;
+  reviewedBy: string;
 };
 
 export type IKeyFeatures = {

@@ -115,7 +115,7 @@ const componentSchema = new Schema<IComponent>(
         comment: {
           type: String,
         },
-        userID: {
+        reviewedBy: {
           // type: Schema.Types.ObjectId,
           type: String,
           // ref: 'User'
